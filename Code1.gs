@@ -47,9 +47,10 @@ function AddChart(type) {
       .setOption('vAxis.title', 'Precipitation (mm)')
       .addRange(sheet.getRange("D3:H" + lastRow)) // Assuming precipitation data is in column E
       .setOption('series', {
-        0: { color: 'blue', labelInLegend: 'Condition' },
-        1: { color: 'red', labelInLegend: 'Humidity % ' },
-        2: { color: 'yellow', labelInLegend: 'Wind Speed (kph)' }
+        //0: { color: 'blue', labelInLegend: 'Condition' },
+        0: { color: 'red', labelInLegend: 'Temperature' },
+        1: { color: 'yellow', labelInLegend: 'Humidity' },
+        2: { color: 'orange', labelInLegend: 'Wind Speed' },
       })
       .setPosition(11, 4, 0, 0)
       .build();
