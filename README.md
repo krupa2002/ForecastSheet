@@ -56,6 +56,6 @@ Each sheet will contain current weather data, a weekly forecast, a weather chart
 ### DEMO 
 
 
-https://github.com/krupa2002/ForecastSheet/assets/90334102/2c2437da-0416-40e8-88ef-cc6a032698c5
+
 
 
