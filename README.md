@@ -6,7 +6,7 @@ This project leverages WeatherAPI and Google Apps Script to fetch and visualize 
 
 ## Features
 
-**Real-time Weather Updates**: Fetches the latest weather data for specified locations. < br />
+**Real-time Weather Updates**: Fetches the latest weather data for specified locations. <br />
 **Weather Summarie**s: Provides comprehensive weather summaries including temperature, condition, humidity, and wind speed. <br />
 **Weekly Weather Predictions**: Displays a 7-day weather forecast with detailed information for each day. <br />
 **Visualization:** Visualizes temperature and precipitation data for easy analysis. <br />
