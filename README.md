@@ -28,7 +28,7 @@ This project leverages WeatherAPI and Google Apps Script to fetch and visualize 
 ## Installation 
 
 - Clone the Repository<br />
-- git clone https://github.com/your-username/ForecastSheet.git <br />
+- git clone https://github.com/krupa2002/ForecastSheet.git <br />
 - cd ForecastSheet <br />
 - Open Google Sheets <br />
 - Open a new or existing Google Sheet.<br />
