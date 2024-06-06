@@ -27,51 +27,32 @@ This project leverages WeatherAPI and Google Apps Script to fetch and visualize 
 
 ## Installation 
 
-Clone the Repository<br />
-
-git clone https://github.com/your-username/ForecastSheet.git <br />
-
-cd ForecastSheet <br />
-
-Open Google Sheets <br />
-
-Open a new or existing Google Sheet.<br />
-
-Open Script Editor <br />
-
-Click on Extensions > Apps Script to open the script editor. <br />
-
-Add the Scripts <br />
-
-Create two new script files in the script editor and name them Code.gs and Code1.gs. <br />
-
-Copy the contents of Code.gs from the repository into the Code.gs file in the script editor. <br />
-
-Copy the contents of Code1.gs from the repository into the Code1.gs file in the script editor. <br />
-
-Save and Run <br />
-
-Save the scripts.<br /> 
-
-Run the onOpen function to add the "Weather" menu to your Google Sheet.<br />
+- Clone the Repository<br />
+- git clone https://github.com/your-username/ForecastSheet.git <br />
+- cd ForecastSheet <br />
+- Open Google Sheets <br />
+- Open a new or existing Google Sheet.<br />
+- Open Script Editor <br />
+- Click on Extensions > Apps Script to open the script editor. <br />
+- Add the Scripts <br />
+- Create two new script files in the script editor and name them Code.gs and Code1.gs. <br />
+- Copy the contents of Code.gs from the repository into the Code.gs file in the script editor. <br />
+- Copy the contents of Code1.gs from the repository into the Code1.gs file in the script editor. <br />
+- Save and Run <br />
+- Save the scripts.<br /> 
+- Run the onOpen function to add the "Weather" menu to your Google Sheet.<br />
 
 ### Usage <br />
 
 Refresh Your Google Sheet <br />
-
 After running the onOpen function, refresh your Google Sheet. You should see a new "Weather" menu in the menu bar. <br />
-
 Fetch Weather Data <br />
-
 Click on the "Weather" menu and select "Weather Forecast." <br />
-
 Enter the city names separated by commas when prompted. <br />
-
 View Weather Data <br />
-
 The weather data for the specified cities will be displayed in new sheets within your Google Sheet. <br />
-
 Each sheet will contain current weather data, a weekly forecast, and a weather summary. <br />
 
-
+### Try It Out
+You can try out ForecastSheet directly in Google Sheets by following this link - https://docs.google.com/spreadsheets/d/1kMdvXcAlX_AMfrzjCVUit1D9ETUQ3SkLTqtt_3Kc2E0/edit?usp=sharing
 
