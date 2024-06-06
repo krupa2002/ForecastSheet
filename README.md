@@ -53,9 +53,6 @@ View Weather Data <br />
 The weather data for the specified cities will be displayed in new sheets within your Google Sheet. <br />
 Each sheet will contain current weather data, a weekly forecast, a weather chart and a weather summary. <br />
 
-### Try It Out
-You can try out ForecastSheet directly in Google Sheets by following this link - https://docs.google.com/spreadsheets/d/1kMdvXcAlX_AMfrzjCVUit1D9ETUQ3SkLTqtt_3Kc2E0/edit?usp=sharing
-
 ### DEMO 
 
 
