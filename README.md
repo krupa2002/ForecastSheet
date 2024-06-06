@@ -56,3 +56,9 @@ Each sheet will contain current weather data, a weekly forecast, a weather chart
 ### Try It Out
 You can try out ForecastSheet directly in Google Sheets by following this link - https://docs.google.com/spreadsheets/d/1kMdvXcAlX_AMfrzjCVUit1D9ETUQ3SkLTqtt_3Kc2E0/edit?usp=sharing
 
+### DEMO 
+
+
+https://github.com/krupa2002/ForecastSheet/assets/90334102/2c2437da-0416-40e8-88ef-cc6a032698c5
+
+
